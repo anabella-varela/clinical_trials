@@ -16,7 +16,7 @@ Questions:
 Please do share the Python/SQL code you use to process the sample data.
 
 
-[Python/SQL code used] (https://colab.research.google.com/drive/1Z3O3AiANfRFij1KKp_x42ZiAJPGg-2Vh)
+[Python/SQL code used](https://colab.research.google.com/drive/1Z3O3AiANfRFij1KKp_x42ZiAJPGg-2Vh)
 
 
 
@@ -32,4 +32,4 @@ Consider that you’re a part of a big pharma’s R&D organization and involved 
 
 
 
-[Presentation with main findings] (https://docs.google.com/presentation/d/1gUqLhbAKy6wA-dA9erePMw74BX_x15eRdQLgWa5s16Q/edit?usp=sharing)
+[Presentation with main findings](https://docs.google.com/presentation/d/1gUqLhbAKy6wA-dA9erePMw74BX_x15eRdQLgWa5s16Q/edit?usp=sharing)
